@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## China Mountain Zhang
+[回到主页](https://boheme130.github.io/Fiction.git.io/)
+<br>
+<br>
 
-You can use the [editor on GitHub](https://github.com/Boheme130/ChinaMountainZhang.git.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+作品：China Mountain Zhang <br>
+作者：Maureen F. McHugh <br>
+评分：4.5/5 <br>
 
-### Markdown
+关键词：🇨🇳；科幻；夹缝生存；禁忌爱情；Lambda奖桂冠作品
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+23世纪，🇨🇳称霸全球，美国早已爆发无产阶级GM沦为社会主义国家，而15年前美国还经历了cuItura|大清洗运动，公社运动遍布纽约。在这个世界，中国公民是世界的第一公民，而即便是海外华侨也会被认为是次等人。每个外国人都想去中国学习并留下来。
 
-```markdown
-Syntax highlighted code block
+这本书由9个分镜头组成，其中5个是男主视角，4个是其他配角。书中没有涉及宏大叙事，每一个片段都是日常生活小细节，给读者留下了相当自由的解读空间。作为科幻作品，主角们的行为并最终没有改变世界，但他们都实现了和自我的和解。中西混血男主张中山最终认清了自我，找到了他的归属和爱情。即便是其他配角的分镜头也同样精彩：退伍女兵Martine孤独地生活在火星上(全球变暖导致地球大部分地区不宜居)，风筝飞行者Angel在纽约斗风筝，火星移民Martian想要学习更多工程，丑女孩钱三香整容后却大失所望。
 
-# Header 1
-## Header 2
-### Header 3
+书名就是男主的名字：张(Zhang)中山(China Mountain)，然而他还有另一个名字叫Rafael。男主是纽约人，他父亲是华裔，母亲是西裔，但出生时做了基因修饰手术使得他的外表和中国人看起来无异，他从小学习普通话，语言上也到了能以假乱真的程度。
 
-- Bulleted
-- List
+中山在纽约当一个工程技师。他有一个东欧裔白人男朋友Peter，两人之间感情很好。然而这个世界txl是重罪，美国执行得还比较宽松，但🇨🇳这可是死罪。因此两人只能秘密见面。
 
-1. Numbered
-2. List
+他的工头钱先生误以为中山是纯正的中国血统，想强迫他和自己的女儿钱三香订婚，并诱惑中山说可以送他去伤害学习。尽管百般不情愿，中山顾及上司面子还是和三香约会。三香非常丑(基因缺陷)，但中山还是十分礼貌带着她去看斗风筝(飞行机)比赛。三香尽管知道自己很丑中山不感兴趣，但她还是非常开心。三香之后甚至邀请中山参加了自己的公社，中山对zz不感兴趣，但三香却激情指点江山，甚至指出中山付房租的行为是纵容地主，中山很不满，指出大清洗运动已经结束了，人们不再对一个人的成分斤斤计较。
 
-**Bold** and _Italic_ and `Code` text
+一天三香离家出走要求中山收留自己，中山进退两难只能答应，最终三香的父亲发现了这件事勃然大怒，三香还把责任全推到中山身上，因此中山被辞退失业了。在这个工作分配制的社会，再找一份工作难如登天。
 
-[Link](url) and ![Image](src)
-```
+失业六月后，中山被迫接下了去北极的六个月合同工工作，Peter很不舍。中山到北极后因为人烟稀少被迫禁欲。在工作、生活环境、天气的压迫下，他崩溃了。在工友的帮助下，他调整了过来，还知道了如果工作一年就能被派去🇨🇳学习。他强忍了一年，得到了去🇨🇳的机会。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+刚来到南京大学学习建筑工程，中山就得了重病，医生帮他换了肾，中山发现🇨🇳医疗极度先进，医生甚至能借着防抑郁症的理由控制人的意识，他非常想念Peter. 
 
-### Jekyll Themes
+快30岁的中山在🇨🇳十分孤独，🇨🇳的花花世界让来自落后世界的中山倍感迷茫。他赶不上工科课程。遇到同学海宝，海宝身着🇨🇳特色服装，手持南京啤酒，一下子迷倒了中山。两人相互试探，发现对方真相后就上床了。他们一起共度了一段浪漫的时光。中山给Peter写信告知这段情感，Peter很高兴。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boheme130/ChinaMountainZhang.git.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+海宝朋友被捕了，在🇨🇳txl是死罪，海宝面临被朋友供出出的危险。海宝带着中山出门放松心情，却遇到👮‍♀️突袭，两人疯狂逃窜，海宝几乎崩溃，中山方寸大乱，完全无法用中文思考，思维完全转回了母语的西语和英语，但他还是安慰海宝。
 
-### Support or Contact
+逃脱后中山跟着海宝回到家里，安慰海宝，却意外发现了海宝桌上的停学调查信件。回家后，中山收到了海宝的感谢信，同时海宝说自己活不过劳改。中山狂奔到海报楼下，海宝已经跳楼死了。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+临近毕业中山来到无锡实习，他的女导师言传身教，希望中山成为一名道教工程师。训练过程十分辛苦，中山几近崩溃，但还是无法做出合格的作品。他无比思念纽约，发现自己无法割舍故乡，在中国永远是个异客。他不断尝试图纸却最终绝望放弃，但放下杂念后反而渗透道教，做出了成功的作品。
+
+回到纽约，中山遇到了三香，这时三香已经整容和家庭决裂，准备去火星上的公社。中山分别前告知了三香自己的取向，希望三香知道当初约会失败的责任不在她而在他。
+
+中山在康尼岛遇到了西裔Invierno, 两人在派对上再次相遇好上了。中山靠着在中国的学历轻而易举得到了高薪工作，然而这份工作在亚利桑那荒漠，他选择在纽约教书，尽管薪水更低但能留在熟悉的环境。另一家公司开出了天价工资，但中山近距离接触后发现公司文化保守，地理偏僻，他作为txl在那里会生不如死。他最终发现自己的community只属于纽约，他决定自己和Peter等人创业，相信明天一定会更好。
+
